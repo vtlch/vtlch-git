@@ -1,0 +1,11 @@
+{
+    "name": "vtlch/test-php",
+    "description": "test pakage",
+    "authors": [
+        {
+            "name": "Олег Костырев",
+            "email": "Crauser777@yandex.ru"
+        }
+    ],
+    "require": {}
+}
